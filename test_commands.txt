@@ -1,0 +1,86 @@
+bfs
+Adam Levine
+Alicia Keys
+***
+
+dfs
+Adam Levine
+Alicia Keys
+***
+bfs
+Adam Levine
+Britney Spears
+***
+
+dfs
+Adam Levine
+Britney Spears
+***
+not
+Adam Levine
+Britney Spears
+Alicia Keys
+*
+***
+
+not
+Adam Levine
+Britney Spears
+Ariana Grande
+*
+***
+bfs
+Adam Levine
+Nonexistent Artist
+***
+
+dfs
+Adam Levine
+Nonexistent Artist
+***
+bfs
+Adam Levine
+Isolated Artist
+***
+
+dfs
+Adam Levine
+Isolated Artist
+***
+not
+Adam Levine
+Britney Spears
+Alicia Keys
+Ariana Grande
+*
+***
+bfs
+Adam Levine
+Lady Gaga
+***
+
+dfs
+Adam Levine
+Lady Gaga
+***
+invalid_command
+Adam Levine
+Alicia Keys
+***
+
+bfs
+Adam Levine
+Alicia Keys
+***
+bfs
+Adam Levine
+***
+bfs
+Adam Levine
+Alicia Keys
+***
+
+bfs
+Adam Levine
+Alicia Keys
+***
